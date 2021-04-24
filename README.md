@@ -13,6 +13,8 @@
 
 <h1 align="center">GRABBER FEATURES</h1>
 
+## THE PAYLOAD NEED TO BE INJECTED IN `CORE.ASAR`
+
 - Inject all client and all versions  AND futures versions !
 - Inject discord client
 - Send tokens every 30min
